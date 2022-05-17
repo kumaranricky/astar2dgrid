@@ -172,7 +172,7 @@ a=path_states(s2)
 print(a)
 ```
 
-
+<br><br><br>
 ## OUTPUT:
 ![Screenshot (182)](https://user-images.githubusercontent.com/75243072/168871824-5853460e-e0e2-4d97-bf29-840268214bc8.png)
 
