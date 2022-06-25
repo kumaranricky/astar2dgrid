@@ -1,4 +1,10 @@
-# A* Path Finding Algorithm for 2D Grid World
+### EXP NO: 04
+
+### DATE: 17/05/2022
+
+
+# <p align = "center"> A* Path Finding Algorithm for 2D Grid World </p>
+
 ## AIM
 
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
@@ -21,7 +27,7 @@ Mention the obstacles and define any distance method.
 Pass the initial state,final state,obstacles and distance method and receive the directions as output.
 
 
-## Draw the 2D 
+## <br><br>Draw the 2D 
 ![Screenshot (181)](https://user-images.githubusercontent.com/75243072/168870942-304c6e60-e391-4535-ba90-5964b3ada3e8.png)
 
 ## PROGRAM
@@ -173,7 +179,7 @@ print(a)
 ```
 
 <br><br><br>
-## OUTPUT:
+## <br><br><br><br><br><br>OUTPUT:
 ![Screenshot (182)](https://user-images.githubusercontent.com/75243072/168871824-5853460e-e0e2-4d97-bf29-840268214bc8.png)
 
 ## Solution Justification:
