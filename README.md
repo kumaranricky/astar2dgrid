@@ -31,6 +31,11 @@ Pass the initial state,final state,obstacles and distance method and receive the
 ![Screenshot (181)](https://user-images.githubusercontent.com/75243072/168870942-304c6e60-e391-4535-ba90-5964b3ada3e8.png)
 
 ## PROGRAM
+```
+Developed By
+Student name : Kumaran.B
+Reg.no : 212220230026
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
@@ -179,11 +184,11 @@ print(a)
 ```
 
 <br><br><br>
-## <br><br><br><br><br><br>OUTPUT:
+## <br><br><br>OUTPUT:
 ![Screenshot (182)](https://user-images.githubusercontent.com/75243072/168871824-5853460e-e0e2-4d97-bf29-840268214bc8.png)
 
 ## Solution Justification:
 A Star Search algorithm is the best algorithm using nowadays to find the shortest distance to reach the goal state.But,it is not true in all the cases.There must be a possibility to give a long distance route(less possible).However, it is good technique to find short distance to reach goal state.
 
-## RESULT:
+## <br><br><br>RESULT:
 Hence, A* Algorithm was implemented to find the route from the source to the destination point in a 2D gird World.
